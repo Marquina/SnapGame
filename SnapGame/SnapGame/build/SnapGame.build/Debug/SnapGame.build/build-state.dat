@@ -1,0 +1,57 @@
+TSnapGame
+v7
+r0
+t318615891.416891
+cCheck dependencies
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/MainWindow.xib
+c000000004C238AF90000000000002657
+t1277397753
+s9815
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGameViewController.xib
+c000000004C238AF90000000000001A49
+t1277397753
+s6729
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug/SnapGame.app
+t2
+s0
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug/SnapGame.app/Contents/Info.plist
+t2
+s0
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug/SnapGame.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug/SnapGame.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug/SnapGame.app/Contents/Resources/SnapGameViewController.nib
+t2
+s0
+
+NSnapGame-Info.plist
+c000000004C238AF9000000000000038D
+t1277397753
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318615891#318615891#0(68"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.3'0(0#1#0"8615777280#0"0#
+
+CCompileXIB /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/MainWindow.xib
+r0
+
+CCompileXIB /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGameViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug/SnapGame.app/Contents/Info.plist SnapGame-Info.plist
+r0
+
+CTouch /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug/SnapGame.app
+r0
+

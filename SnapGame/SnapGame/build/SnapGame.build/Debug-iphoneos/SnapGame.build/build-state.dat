@@ -1,0 +1,1526 @@
+TSnapGame
+v7
+r0
+t318615926.324489
+cCheck dependencies
+cCpResource build/Debug-iphoneos/SnapGame.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/Info.plist SnapGame-Info.plist
+cCompileXIB /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/MainWindow.xib
+cCompileXIB /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGameViewController.xib
+cProcessPCH /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch.gch SnapGame_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch.gch SnapGame_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/main.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterface.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/AuthenticationViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Communcations.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ConfirmationViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HarassementTypes.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackMsg.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/InfoViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LFCGzipUtility.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LegalViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsite.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsiteView.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MessageQueue.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/NSStringAdditions.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Overlay.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ReportViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/RootViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/TakePhotoViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/UserSignupviewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/iphone_rightridesAppDelegate.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/main.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterface.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/SnapGame normal armv6
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/AuthenticationViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Communcations.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ConfirmationViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HarassementTypes.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackMsg.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/InfoViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LFCGzipUtility.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LegalViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsite.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsiteView.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MessageQueue.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/NSStringAdditions.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Overlay.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ReportViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/RootViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/TakePhotoViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/UserSignupviewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/iphone_rightridesAppDelegate.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/SnapGame normal armv7
+cProcessProductPackaging "/Users/danielpiselli/Library/MobileDevice/Provisioning Profiles/F42584FD-C305-4D91-98B3-A5F50DA224DD.mobileprovision" /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/embedded.mobileprovision
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame.xcent
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC11B4300000000000001D0
+t1287723843
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004CC10F1C0000000000006506
+t1287720732
+s25862
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonCryptor.h
+c000000004CB3E44C0000000000005AF2
+t1286857804
+s23282
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004CB3E44C0000000000002407
+t1286857804
+s9223
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004CB3E44C0000000000000DE2
+t1286857804
+s3554
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/sqlite3.h
+c000000004CC10A9E0000000000042B54
+t1287719582
+s273236
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4B80000000000002DF5
+t1286857912
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/string.h
+c000000004CB3E4B80000000000001731
+t1286857912
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/zlib.h
+c000000004CC1053F00000000000102A5
+t1287718207
+s66213
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.h
+c000000004C23AF910000000000000403
+t1277407121
+s1027
+i<UIKit/UIKit.h>
+i"Communcations.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m
+c000000004C23AF910000000000001421
+t1277407121
+s5153
+i"AuthenticationViewController.h"
+i"iphone_rightridesAppDelegate.h"
+i"Communcations.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.h
+c000000004C238E3100000000000009DD
+t1277398577
+s2525
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m
+c000000004C23BFD80000000000005503
+t1277411288
+s21763
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<CommonCrypto/CommonDigest.h>
+i<CommonCrypto/CommonHMAC.h>
+i<CommonCrypto/CommonCryptor.h>
+i"Communcations.h"
+i"HollabackMsg.h"
+i"LFCGzipUtility.h"
+i"MessageQueue.h"
+i"NSStringAdditions.h"
+i"iphone_rightridesAppDelegate.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.h
+c000000004C23AF910000000000000138
+t1277407121
+s312
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m
+c000000004C23AF9100000000000007C3
+t1277407121
+s1987
+i"ConfirmationViewController.h"
+i"iphone_rightridesAppDelegate.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.h
+c000000004C238EC9000000000000014E
+t1277398729
+s334
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m
+c000000004C238EE9000000000000093F
+t1277398761
+s2367
+i"HarassementTypes.h"
+i"iphone_rightridesAppDelegate.h"
+i"HollabackMsg.h"
+i"Communcations.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.h
+c000000004C238F4400000000000002EB
+t1277398852
+s747
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m
+c000000004C238F80000000000000193A
+t1277398912
+s6458
+i"HollabackMsg.h"
+i"Communcations.h"
+i"LFCGzipUtility.h"
+i"MessageQueue.h"
+i"iphone_rightridesAppDelegate.h"
+i"NSStringAdditions.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.h
+c000000004C23903D00000000000005B6
+t1277399101
+s1462
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m
+c000000004C23AD1300000000000023E8
+t1277406483
+s9192
+i"HollabackViewController.h"
+i<CoreLocation/CoreLocation.h>
+i"Communcations.h"
+i"iphone_rightridesAppDelegate.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.h
+c000000004C239080000000000000012D
+t1277399168
+s301
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m
+c000000004C23AF910000000000000797
+t1277407121
+s1943
+i"InfoViewController.h"
+i"iphone_rightridesAppDelegate.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.h
+c000000004C2390E4000000000000012D
+t1277399268
+s301
+i<Foundation/Foundation.h>
+i"zlib.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m
+c000000004C2390D00000000000001B6F
+t1277399248
+s7023
+i"LFCGzipUtility.h"
+i"LFCGzipUtility.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.h
+c000000004C2391310000000000000220
+t1277399345
+s544
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m
+c000000004C23AF910000000000000BBD
+t1277407121
+s3005
+i"LegalViewController.h"
+i"iphone_rightridesAppDelegate.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.h
+c000000004C238BAE00000000000001BC
+t1277397934
+s444
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m
+c000000004C23B056000000000000096F
+t1277407318
+s2415
+i"MainInterface.h"
+i"iphone_rightridesAppDelegate.h"
+i"MessageQueue.h"
+i"Communcations.h"
+i"MessageQueue.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.h
+c000000004C23916700000000000001AF
+t1277399399
+s431
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m
+c000000004C23AF910000000000000773
+t1277407121
+s1907
+i"MainInterfaceWebsite.h"
+i"MainInterfaceWebsiteView.h"
+i"iphone_rightridesAppDelegate.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.h
+c000000004C2391BE0000000000000137
+t1277399486
+s311
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m
+c000000004C239190000000000000027E
+t1277399440
+s638
+i"MainInterfaceWebsiteView.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.h
+c000000004C23AB32000000000000024D
+t1277406002
+s589
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m
+c000000004C23AB1C00000000000012B6
+t1277405980
+s4790
+i"MessageQueue.h"
+i<sqlite3.h>
+i"iphone_rightridesAppDelegate.h"
+i"HollabackMsg.h"
+i"MainInterface.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.h
+c000000004C23AB770000000000000149
+t1277406071
+s329
+i<UIKit/UIKit.h>
+i<Foundation/NSString.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m
+c000000004C23AB560000000000000C74
+t1277406038
+s3188
+i"NSStringAdditions.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.h
+c000000004C23ABA700000000000000E0
+t1277406119
+s224
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m
+c000000004C23AB960000000000000580
+t1277406102
+s1408
+i"Overlay.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.h
+c000000004C23AE1E0000000000000152
+t1277406750
+s338
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m
+c000000004C23AE10000000000000089C
+t1277406736
+s2204
+i"ReportViewController.h"
+i"iphone_rightridesAppDelegate.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.h
+c000000004C23AE5A00000000000000E8
+t1277406810
+s232
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m
+c000000004C23AE4900000000000010A4
+t1277406793
+s4260
+i"RootViewController.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.h
+c000000004C23AE850000000000000165
+t1277406853
+s357
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m
+c000000004C23AF910000000000001B5B
+t1277407121
+s7003
+i"TakePhotoViewController.h"
+i"iphone_rightridesAppDelegate.h"
+i"HollabackMsg.h"
+i"NSStringAdditions.h"
+i"Overlay.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.h
+c000000004C23AEC7000000000000049C
+t1277406919
+s1180
+i<UIKit/UIKit.h>
+i"Communcations.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m
+c000000004C23AF91000000000000159C
+t1277407121
+s5532
+i"UserSignupViewController.h"
+i"iphone_rightridesAppDelegate.h"
+i"Communcations.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.h
+c000000004C23AF110000000000000C68
+t1277406993
+s3176
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m
+c000000004C23AF910000000000002557
+t1277407121
+s9559
+i"iphone_rightridesAppDelegate.h"
+i"RootViewController.h"
+i"UserSignupViewController.h"
+i"MainInterface.h"
+i"LegalViewController.h"
+i"Communcations.h"
+i"AuthenticationViewController.h"
+i"ReportViewController.h"
+i"HarassementTypes.h"
+i"TakePhotoViewController.h"
+i"ConfirmationViewController.h"
+i"HollabackMsg.h"
+i"MainInterfaceWebsite.h"
+i"InfoViewController.h"
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/MainWindow.xib
+c000000004C238AF90000000000002657
+t1277397753
+s9815
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGameViewController.xib
+c000000004C238AF90000000000001A49
+t1277397753
+s6729
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGame_Prefix.pch
+c000000004C238AF900000000000000B9
+t1277397753
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app
+t1296923126
+s272
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app.dSYM
+t2
+s0
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/Info.plist
+t1296923122
+s785
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/MainWindow.nib
+t1296923122
+s1125
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/PkgInfo
+t1296923122
+s8
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/ResourceRules.plist
+t1296923122
+s485
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/SnapGame
+t2
+s0
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/SnapGameViewController.nib
+t1296923122
+s795
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/embedded.mobileprovision
+t1296923126
+s7161
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/AuthenticationViewController.o
+t1296923124
+s64720
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Communcations.o
+t1296923124
+s91108
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ConfirmationViewController.o
+t1296923124
+s47640
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HarassementTypes.o
+t1296923124
+s49420
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackMsg.o
+t1296923124
+s64752
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackViewController.o
+t1296923124
+s43000
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/InfoViewController.o
+t1296923124
+s47468
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LFCGzipUtility.o
+t1296923124
+s12212
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LegalViewController.o
+t1296923124
+s52836
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterface.o
+t1296923124
+s52976
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsite.o
+t1296923124
+s51108
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsiteView.o
+t1296923124
+s38876
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MessageQueue.o
+t1296923124
+s62344
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/NSStringAdditions.o
+t1296923124
+s8768
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Overlay.o
+t1296923124
+s37376
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ReportViewController.o
+t1296923124
+s49332
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/RootViewController.o
+t1296923124
+s41052
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/SnapGame
+t2
+s0
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/SnapGame.LinkFileList
+c000000004D4D79F20000000000000C3A
+t1296923122
+s3130
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/TakePhotoViewController.o
+t1296923124
+s64332
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/UserSignupviewController.o
+t1296923125
+s71468
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/iphone_rightridesAppDelegate.o
+t1296923125
+s97264
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/main.o
+t1296923123
+s6480
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/AuthenticationViewController.o
+t1296923125
+s64364
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Communcations.o
+t1296923125
+s89588
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ConfirmationViewController.o
+t1296923125
+s47592
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HarassementTypes.o
+t1296923125
+s49352
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackMsg.o
+t1296923125
+s64200
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackViewController.o
+t1296923125
+s42932
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/InfoViewController.o
+t1296923125
+s47420
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LFCGzipUtility.o
+t1296923125
+s11444
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LegalViewController.o
+t1296923125
+s52704
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterface.o
+t1296923125
+s52840
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsite.o
+t1296923125
+s50984
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsiteView.o
+t1296923125
+s38832
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MessageQueue.o
+t1296923125
+s61688
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/NSStringAdditions.o
+t1296923125
+s8628
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Overlay.o
+t1296923125
+s37348
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ReportViewController.o
+t1296923125
+s49236
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/RootViewController.o
+t1296923126
+s40992
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/SnapGame
+t2
+s0
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/SnapGame.LinkFileList
+c000000004D4D79F20000000000000C3A
+t1296923122
+s3130
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/TakePhotoViewController.o
+t1296923126
+s62896
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/UserSignupviewController.o
+t1296923126
+s71028
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/iphone_rightridesAppDelegate.o
+t1296923126
+s96412
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/main.o
+t1296923125
+s6464
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame.xcent
+t1296923126
+s422
+
+N/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m
+c000000004C23AF740000000000000166
+t1277407092
+s358
+i<UIKit/UIKit.h>
+
+N/Users/danielpiselli/Library/MobileDevice/Provisioning Profiles/F42584FD-C305-4D91-98B3-A5F50DA224DD.mobileprovision
+c000000004D4D6D720000000000001BF9
+t1296919922
+s7161
+
+N/var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch.gch
+t1296923123
+s10446552
+
+N/var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch.gch
+t1296923123
+s9983704
+
+NSnapGame-Info.plist
+c000000004C238AF9000000000000038D
+t1277397753
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318615921#318615922#0(0"0(0#1#0"8596638656#0"0#
+
+CCodeSign /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app
+r0
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/AuthenticationViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615923.975191
+e318615924.112964
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/AuthenticationViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m318615923#318615924#0(0"0(0#0#94"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m8615419648#1987"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/AuthenticationViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Communcations.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.091532
+e318615924.349200
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Communcations.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m: In function '-[Communcations connection:didFailWithError:]':
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m:521: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)
+lSLF07#2@87"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m318615924#318615924#0(434"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m: In function '-[Communcations connection:didFailWithError:]':/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m:521: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)1(22@197"'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)318615924#142#292#0(6@79"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m299104088#521#0#521#0#33"'*' is deprecated (declared at *)0(0#0#79"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m8617781376#1957"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Communcations.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ConfirmationViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.113148
+e318615924.206854
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ConfirmationViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m318615924#318615924#0(0"0(0#0#92"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m8617185376#1983"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ConfirmationViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HarassementTypes.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.206956
+e318615924.314105
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HarassementTypes.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m318615924#318615924#0(0"0(0#0#82"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m8616508896#1963"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HarassementTypes.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackMsg.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.314216
+e318615924.439908
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackMsg.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m: In function '-[HollabackMsg generateHollabackXml:]':
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m:123: warning: format not a string literal and no format arguments
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m: In function '-[HollabackMsg connection:didFailWithError:]':
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m:188: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)
+lSLF07#2@86"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m318615924#318615924#0(709"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m: In function '-[HollabackMsg generateHollabackXml:]':/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m:123: warning: format not a string literal and no format arguments/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m: In function '-[HollabackMsg connection:didFailWithError:]':/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m:188: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)2(22@51"Format not a string literal and no format arguments318615924#133#145#0(6@78"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m299091712#123#0#123#0#51"format not a string literal and no format arguments0(22@197"'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)318615924#418#291#0(6@78"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m299091712#188#0#188#0#33"'*' is deprecated (declared at *)0(0#0#78"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m8616019584#1955"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackMsg.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.349297
+e318615924.426555
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m318615924#318615924#0(0"0(0#0#89"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m8615772768#1977"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/HollabackViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/InfoViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.426653
+e318615924.517679
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/InfoViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m318615924#318615924#0(0"0(0#0#84"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m8615464544#1967"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/InfoViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LFCGzipUtility.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.440006
+e318615924.530839
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LFCGzipUtility.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m318615924#318615924#0(0"0(0#0#80"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m8613796192#1959"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LFCGzipUtility.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LegalViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.517784
+e318615924.605727
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LegalViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m318615924#318615924#0(0"0(0#0#85"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m8617144768#1969"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/LegalViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterface.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615923.905605
+e318615924.091430
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterface.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m318615923#318615924#0(0"0(0#0#79"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m8618874624#1957"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterface.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsite.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.530943
+e318615924.617048
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsite.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m318615924#318615924#0(0"0(0#0#86"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m8616888096#1971"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsite.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsiteView.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.605833
+e318615924.690950
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsiteView.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m318615924#318615924#0(0"0(0#0#90"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m8616188800#1979"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MainInterfaceWebsiteView.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MessageQueue.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.617155
+e318615924.774078
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MessageQueue.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m318615924#318615924#0(0"0(0#0#78"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m8615807104#1955"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/MessageQueue.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/NSStringAdditions.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.691049
+e318615924.757302
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/NSStringAdditions.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m318615924#318615924#0(0"0(0#0#83"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m8615590688#1965"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/NSStringAdditions.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Overlay.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.757396
+e318615924.851945
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Overlay.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m318615924#318615924#0(0"0(0#0#73"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m8618022592#1945"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/Overlay.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ReportViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.774392
+e318615924.853078
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ReportViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m318615924#318615924#0(0"0(0#0#86"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m8616734432#1971"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/ReportViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/RootViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.852049
+e318615924.938642
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/RootViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m318615924#318615924#0(0"0(0#0#84"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m8616477792#1967"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/RootViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/TakePhotoViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.853149
+e318615924.993693
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/TakePhotoViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m318615924#318615924#0(0"0(0#0#89"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m8616125696#1977"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/TakePhotoViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/UserSignupviewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.938749
+e318615925.071962
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/UserSignupviewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m318615924#318615925#0(0"0(0#0#90"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m8615531424#1979"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/UserSignupviewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/iphone_rightridesAppDelegate.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615924.993792
+e318615925.177193
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/iphone_rightridesAppDelegate.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m318615924#318615925#0(0"0(0#0#94"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m8613718944#1987"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/iphone_rightridesAppDelegate.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/main.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615923.904280
+e318615923.975093
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/main.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m318615923#318615923#0(0"0(0#0#62"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m8619600352#1931"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/AuthenticationViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.237556
+e318615925.345671
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/AuthenticationViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m318615925#318615925#0(0"0(0#0#94"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m8615655616#1987"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/AuthenticationViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/AuthenticationViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Communcations.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.238650
+e318615925.450372
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Communcations.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m: In function '-[Communcations connection:didFailWithError:]':
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m:521: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)
+lSLF07#2@87"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m318615925#318615925#0(434"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m: In function '-[Communcations connection:didFailWithError:]':/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m:521: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)1(22@197"'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)318615925#142#292#0(6@79"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m299104088#521#0#521#0#33"'*' is deprecated (declared at *)0(0#0#79"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m8615399008#1957"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Communcations.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Communcations.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ConfirmationViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.345939
+e318615925.426378
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ConfirmationViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m318615925#318615925#0(0"0(0#0#92"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m8606710976#1983"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ConfirmationViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ConfirmationViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HarassementTypes.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.426477
+e318615925.507755
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HarassementTypes.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m318615925#318615925#0(0"0(0#0#82"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m8616925600#1963"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HarassementTypes.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HarassementTypes.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackMsg.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.450468
+e318615925.586578
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackMsg.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m: In function '-[HollabackMsg generateHollabackXml:]':
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m:123: warning: format not a string literal and no format arguments
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m: In function '-[HollabackMsg connection:didFailWithError:]':
+o/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m:188: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)
+lSLF07#2@86"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m318615925#318615925#0(709"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m: In function '-[HollabackMsg generateHollabackXml:]':/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m:123: warning: format not a string literal and no format arguments/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m: In function '-[HollabackMsg connection:didFailWithError:]':/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m:188: warning: 'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)2(22@51"Format not a string literal and no format arguments318615925#133#145#0(6@78"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m299091712#123#0#123#0#51"format not a string literal and no format arguments0(22@197"'NSErrorFailingURLStringKey' is deprecated (declared at /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:46)318615925#418#291#0(6@78"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m299091712#188#0#188#0#33"'*' is deprecated (declared at *)0(0#0#78"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m8616710720#1955"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackMsg.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackMsg.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.507852
+e318615925.585233
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m318615925#318615925#0(0"0(0#0#89"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m8616197600#1977"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/HollabackViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/HollabackViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/InfoViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.585354
+e318615925.664813
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/InfoViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m318615925#318615925#0(0"0(0#0#84"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m8615436064#1967"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/InfoViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/InfoViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LFCGzipUtility.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.586648
+e318615925.671502
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LFCGzipUtility.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m318615925#318615925#0(0"0(0#0#80"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m8615247680#1959"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LFCGzipUtility.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LFCGzipUtility.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LegalViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.664902
+e318615925.764019
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LegalViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m318615925#318615925#0(0"0(0#0#85"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m8612917536#1969"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/LegalViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/LegalViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterface.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.135886
+e318615925.238580
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterface.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m318615925#318615925#0(0"0(0#0#79"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m8603901088#1957"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterface.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterface.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsite.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.671597
+e318615925.762825
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsite.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m318615925#318615925#0(0"0(0#0#86"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m8603670400#1971"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsite.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsite.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsiteView.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.762921
+e318615925.828151
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsiteView.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m318615925#318615925#0(0"0(0#0#90"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m8617140960#1979"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MainInterfaceWebsiteView.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MainInterfaceWebsiteView.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MessageQueue.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.764090
+e318615925.883893
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MessageQueue.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m318615925#318615925#0(0"0(0#0#78"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m8616734688#1955"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/MessageQueue.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/MessageQueue.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/NSStringAdditions.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.828250
+e318615925.887998
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/NSStringAdditions.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m318615925#318615925#0(0"0(0#0#83"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m8616264832#1965"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/NSStringAdditions.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/NSStringAdditions.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Overlay.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.883996
+e318615925.957357
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Overlay.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m318615925#318615925#0(0"0(0#0#73"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m8615775136#1945"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/Overlay.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/Overlay.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ReportViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.888100
+e318615925.982302
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ReportViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m318615925#318615925#0(0"0(0#0#86"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m8615598496#1971"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/ReportViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/ReportViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/RootViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.957465
+e318615926.034347
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/RootViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m318615925#318615926#0(0"0(0#0#84"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m8608422976#1967"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/RootViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/RootViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/TakePhotoViewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.982403
+e318615926.103584
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/TakePhotoViewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m318615925#318615926#0(0"0(0#0#89"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m8601386784#1977"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/TakePhotoViewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/TakePhotoViewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/UserSignupviewController.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615926.034446
+e318615926.163717
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/UserSignupviewController.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m318615926#318615926#0(0"0(0#0#90"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m8617756544#1979"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/UserSignupviewController.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/UserSignupviewController.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/iphone_rightridesAppDelegate.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615926.103681
+e318615926.247118
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/iphone_rightridesAppDelegate.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m318615926#318615926#0(0"0(0#0#94"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m8616649056#1987"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/Classes/iphone_rightridesAppDelegate.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/iphone_rightridesAppDelegate.o0#
+
+CCompileC build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/main.o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615925.072057
+e318615925.135768
+r1
+xCompileC
+xbuild/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/main.o
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m318615925#318615925#0(0"0(0#0#62"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m8608585984#1931"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -include /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/main.m -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/MainWindow.xib
+s318615922.097688
+e318615922.500210
+r1
+xCompileXIB
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318615922#318615922#0(0"0(0#0#70"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/MainWindow.xib8615630048#594"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/MainWindow.nib /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGameViewController.xib
+s318615922.098325
+e318615922.477880
+r1
+xCompileXIB
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGameViewController.xib
+lSLF07#2@37"CompileXIB SnapGameViewController.xib318615922#318615922#0(0"0(0#0#82"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGameViewController.xib8615481024#618"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/SnapGameViewController.nib /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGameViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/SnapGame.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s318615922.091438
+e318615922.097618
+r1
+xCpResource
+xbuild/Debug-iphoneos/SnapGame.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist318615922#318615922#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8616121920#529"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app0#
+
+CCreateUniversalBinary /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/SnapGame normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app.dSYM /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/SnapGame
+r0
+
+CLd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/SnapGame normal armv6
+s318615925.177284
+e318615925.237458
+r0
+xLd
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/SnapGame
+xnormal
+xarmv6
+oUndefined symbols:
+o  "_sqlite3_step", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_sqlite3_last_insert_rowid", referenced from:
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o  "_sqlite3_close", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o      -[MessageQueue dealloc] in MessageQueue.o
+o  "_sqlite3_column_blob", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o  "_OBJC_CLASS_$_CLLocationManager", referenced from:
+o      objc-class-ref-to-CLLocationManager in iphone_rightridesAppDelegate.o
+o  "_deflate", referenced from:
+o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o
+o  "_sqlite3_prepare_v2", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_SecKeyGetBlockSize", referenced from:
+o      -[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o
+o  "_sqlite3_bind_blob", referenced from:
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o  "_deflateInit2_", referenced from:
+o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o
+o  "_sqlite3_bind_int", referenced from:
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o  "_sqlite3_column_text", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o  "_SecKeyDecrypt", referenced from:
+o      -[Communcations decryptWithPrivateKey:plainBuffer:] in Communcations.o
+o  "_sqlite3_open", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o  "_deflateEnd", referenced from:
+o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o
+o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o
+o  "_sqlite3_reset", referenced from:
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_kCLLocationAccuracyNearestTenMeters", referenced from:
+o      _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr in iphone_rightridesAppDelegate.o
+o     (maybe you meant: _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr)
+o  "_sqlite3_bind_text", referenced from:
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o  "_sqlite3_errmsg", referenced from:
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_sqlite3_column_bytes", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o  "_sqlite3_column_int", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_SecKeyEncrypt", referenced from:
+o      -[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o
+o  "_sqlite3_finalize", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@141"Link /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/SnapGame318615925#318615925#0(3194"Undefined symbols:  "_sqlite3_step", referenced from:      -[MessageQueue init] in MessageQueue.o      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_sqlite3_last_insert_rowid", referenced from:      -[MessageQueue addMsgToDB:] in MessageQueue.o  "_sqlite3_close", referenced from:      -[MessageQueue init] in MessageQueue.o      -[MessageQueue dealloc] in MessageQueue.o  "_sqlite3_column_blob", referenced from:      -[MessageQueue init] in MessageQueue.o  "_OBJC_CLASS_$_CLLocationManager", referenced from:      objc-class-ref-to-CLLocationManager in iphone_rightridesAppDelegate.o  "_deflate", referenced from:      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o  "_sqlite3_prepare_v2", referenced from:      -[MessageQueue init] in MessageQueue.o      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_SecKeyGetBlockSize", referenced from:      -[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o  "_sqlite3_bind_blob", referenced from:      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o  "_deflateInit2_", referenced from:      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o  "_sqlite3_bind_int", referenced from:      -[MessageQueue confirmPop:] in MessageQueue.o  "_sqlite3_column_text", referenced from:      -[MessageQueue init] in MessageQueue.o  "_SecKeyDecrypt", referenced from:      -[Communcations decryptWithPrivateKey:plainBuffer:] in Communcations.o  "_sqlite3_open", referenced from:      -[MessageQueue init] in MessageQueue.o  "_deflateEnd", referenced from:      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o  "_sqlite3_reset", referenced from:      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_kCLLocationAccuracyNearestTenMeters", referenced from:      _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr in iphone_rightridesAppDelegate.o     (maybe you meant: _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr)  "_sqlite3_bind_text", referenced from:      -[MessageQueue addMsgToDB:] in MessageQueue.o  "_sqlite3_errmsg", referenced from:      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_sqlite3_column_bytes", referenced from:      -[MessageQueue init] in MessageQueue.o  "_sqlite3_column_int", referenced from:      -[MessageQueue init] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_SecKeyEncrypt", referenced from:      -[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o  "_sqlite3_finalize", referenced from:      -[MessageQueue init] in MessageQueue.old: symbol(s) not foundcollect2: ld returned 1 exit status65(4@33""_sqlite3_step", referenced from:318615925#19#36#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#55#45#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615925#100#52#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#152#52#0(6@0"318615925#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615925#204#51#0(6@0"318615925#0#0#0#0#0"0(4@46""_sqlite3_last_insert_rowid", referenced from:318615925#255#49#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#304#52#0(6@0"318615925#0#0#0#0#0"0(4@34""_sqlite3_close", referenced from:318615925#356#37#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#393#45#0(6@0"318615925#0#0#0#0#0"0(13@41"-[MessageQueue dealloc] in MessageQueue.o318615925#438#48#0(6@0"318615925#0#0#0#0#0"0(4@40""_sqlite3_column_blob", referenced from:318615925#486#43#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#529#45#0(6@0"318615925#0#0#0#0#0"0(4@51""_OBJC_CLASS_$_CLLocationManager", referenced from:318615925#574#54#0(6@0"318615925#0#0#0#0#0"0(13@69"Objc-class-ref-to-CLLocationManager in iphone_rightridesAppDelegate.o318615925#628#76#0(6@0"318615925#0#0#0#0#0"0(4@28""_deflate", referenced from:318615925#704#31#0(6@0"318615925#0#0#0#0#0"0(13@47"+[LFCGzipUtility gzipData:] in LFCGzipUtility.o318615925#735#54#0(6@0"318615925#0#0#0#0#0"0(4@39""_sqlite3_prepare_v2", referenced from:318615925#789#42#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#831#45#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615925#876#52#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#928#52#0(6@0"318615925#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615925#980#51#0(6@0"318615925#0#0#0#0#0"0(4@39""_SecKeyGetBlockSize", referenced from:318615925#1031#42#0(6@0"318615925#0#0#0#0#0"0(13@70"-[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o318615925#1073#77#0(6@0"318615925#0#0#0#0#0"0(4@38""_sqlite3_bind_blob", referenced from:318615925#1150#41#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#1191#52#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#1243#52#0(6@0"318615925#0#0#0#0#0"0(4@34""_deflateInit2_", referenced from:318615925#1295#37#0(6@0"318615925#0#0#0#0#0"0(13@47"+[LFCGzipUtility gzipData:] in LFCGzipUtility.o318615925#1332#54#0(6@0"318615925#0#0#0#0#0"0(4@37""_sqlite3_bind_int", referenced from:318615925#1386#40#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615925#1426#52#0(6@0"318615925#0#0#0#0#0"0(4@40""_sqlite3_column_text", referenced from:318615925#1478#43#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#1521#45#0(6@0"318615925#0#0#0#0#0"0(4@34""_SecKeyDecrypt", referenced from:318615925#1566#37#0(6@0"318615925#0#0#0#0#0"0(13@70"-[Communcations decryptWithPrivateKey:plainBuffer:] in Communcations.o318615925#1603#77#0(6@0"318615925#0#0#0#0#0"0(4@33""_sqlite3_open", referenced from:318615925#1680#36#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#1716#45#0(6@0"318615925#0#0#0#0#0"0(4@31""_deflateEnd", referenced from:318615925#1761#34#0(6@0"318615925#0#0#0#0#0"0(13@47"+[LFCGzipUtility gzipData:] in LFCGzipUtility.o318615925#1795#54#0(6@0"318615925#0#0#0#0#0"0(13@47"+[LFCGzipUtility gzipData:] in LFCGzipUtility.o318615925#1849#54#0(6@0"318615925#0#0#0#0#0"0(4@34""_sqlite3_reset", referenced from:318615925#1903#37#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615925#1940#52#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#1992#52#0(6@0"318615925#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615925#2044#51#0(6@0"318615925#0#0#0#0#0"0(4@56""_kCLLocationAccuracyNearestTenMeters", referenced from:318615925#2095#59#0(6@0"318615925#0#0#0#0#0"0(13@83"_kCLLocationAccuracyNearestTenMeters$non_lazy_ptr in iphone_rightridesAppDelegate.o318615925#2154#90#0(6@0"318615925#0#0#0#0#0"0(13@68"(maybe you meant: _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr)318615925#2244#74#0(6@0"318615925#0#0#0#0#0"0(4@38""_sqlite3_bind_text", referenced from:318615925#2318#41#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#2359#52#0(6@0"318615925#0#0#0#0#0"0(4@35""_sqlite3_errmsg", referenced from:318615925#2411#38#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615925#2449#52#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615925#2501#52#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#2553#52#0(6@0"318615925#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615925#2605#52#0(6@0"318615925#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615925#2657#51#0(6@0"318615925#0#0#0#0#0"0(4@41""_sqlite3_column_bytes", referenced from:318615925#2708#44#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#2752#45#0(6@0"318615925#0#0#0#0#0"0(4@39""_sqlite3_column_int", referenced from:318615925#2797#42#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#2839#45#0(6@0"318615925#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615925#2884#51#0(6@0"318615925#0#0#0#0#0"0(4@34""_SecKeyEncrypt", referenced from:318615925#2935#37#0(6@0"318615925#0#0#0#0#0"0(13@70"-[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o318615925#2972#77#0(6@0"318615925#0#0#0#0#0"0(4@37""_sqlite3_finalize", referenced from:318615925#3049#40#0(6@0"318615925#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615925#3089#45#0(6@0"318615925#0#0#0#0#0"0(13@19"Symbol(s) not found318615925#3134#24#0(6@0"318615925#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status318615925#3158#36#0(6@0"318615925#0#0#0#0#0"0(0#0#0"8618898816#950"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -filelist /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/SnapGame.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv6/SnapGame1#
+
+CLd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/SnapGame normal armv7
+s318615926.247198
+e318615926.299123
+r0
+xLd
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/SnapGame
+xnormal
+xarmv7
+oUndefined symbols:
+o  "_sqlite3_step", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_sqlite3_last_insert_rowid", referenced from:
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o  "_sqlite3_close", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o      -[MessageQueue dealloc] in MessageQueue.o
+o  "_sqlite3_column_blob", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o  "_OBJC_CLASS_$_CLLocationManager", referenced from:
+o      objc-class-ref-to-CLLocationManager in iphone_rightridesAppDelegate.o
+o  "_deflate", referenced from:
+o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o
+o  "_sqlite3_prepare_v2", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_SecKeyGetBlockSize", referenced from:
+o      -[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o
+o  "_sqlite3_bind_blob", referenced from:
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o  "_deflateInit2_", referenced from:
+o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o
+o  "_sqlite3_bind_int", referenced from:
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o  "_sqlite3_column_text", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o  "_SecKeyDecrypt", referenced from:
+o      -[Communcations decryptWithPrivateKey:plainBuffer:] in Communcations.o
+o  "_sqlite3_open", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o  "_deflateEnd", referenced from:
+o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o
+o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o
+o  "_sqlite3_reset", referenced from:
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_kCLLocationAccuracyNearestTenMeters", referenced from:
+o      _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr in iphone_rightridesAppDelegate.o
+o     (maybe you meant: _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr)
+o  "_sqlite3_bind_text", referenced from:
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o  "_sqlite3_errmsg", referenced from:
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue confirmPop:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue addMsgToDB:] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_sqlite3_column_bytes", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o  "_sqlite3_column_int", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+o      -[MessageQueue dbMsgCount] in MessageQueue.o
+o  "_SecKeyEncrypt", referenced from:
+o      -[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o
+o  "_sqlite3_finalize", referenced from:
+o      -[MessageQueue init] in MessageQueue.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@141"Link /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/SnapGame318615926#318615926#0(3194"Undefined symbols:  "_sqlite3_step", referenced from:      -[MessageQueue init] in MessageQueue.o      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_sqlite3_last_insert_rowid", referenced from:      -[MessageQueue addMsgToDB:] in MessageQueue.o  "_sqlite3_close", referenced from:      -[MessageQueue init] in MessageQueue.o      -[MessageQueue dealloc] in MessageQueue.o  "_sqlite3_column_blob", referenced from:      -[MessageQueue init] in MessageQueue.o  "_OBJC_CLASS_$_CLLocationManager", referenced from:      objc-class-ref-to-CLLocationManager in iphone_rightridesAppDelegate.o  "_deflate", referenced from:      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o  "_sqlite3_prepare_v2", referenced from:      -[MessageQueue init] in MessageQueue.o      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_SecKeyGetBlockSize", referenced from:      -[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o  "_sqlite3_bind_blob", referenced from:      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o  "_deflateInit2_", referenced from:      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o  "_sqlite3_bind_int", referenced from:      -[MessageQueue confirmPop:] in MessageQueue.o  "_sqlite3_column_text", referenced from:      -[MessageQueue init] in MessageQueue.o  "_SecKeyDecrypt", referenced from:      -[Communcations decryptWithPrivateKey:plainBuffer:] in Communcations.o  "_sqlite3_open", referenced from:      -[MessageQueue init] in MessageQueue.o  "_deflateEnd", referenced from:      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o      +[LFCGzipUtility gzipData:] in LFCGzipUtility.o  "_sqlite3_reset", referenced from:      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_kCLLocationAccuracyNearestTenMeters", referenced from:      _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr in iphone_rightridesAppDelegate.o     (maybe you meant: _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr)  "_sqlite3_bind_text", referenced from:      -[MessageQueue addMsgToDB:] in MessageQueue.o  "_sqlite3_errmsg", referenced from:      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue confirmPop:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue addMsgToDB:] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_sqlite3_column_bytes", referenced from:      -[MessageQueue init] in MessageQueue.o  "_sqlite3_column_int", referenced from:      -[MessageQueue init] in MessageQueue.o      -[MessageQueue dbMsgCount] in MessageQueue.o  "_SecKeyEncrypt", referenced from:      -[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o  "_sqlite3_finalize", referenced from:      -[MessageQueue init] in MessageQueue.old: symbol(s) not foundcollect2: ld returned 1 exit status65(4@33""_sqlite3_step", referenced from:318615926#19#36#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#55#45#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615926#100#52#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#152#52#0(6@0"318615926#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615926#204#51#0(6@0"318615926#0#0#0#0#0"0(4@46""_sqlite3_last_insert_rowid", referenced from:318615926#255#49#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#304#52#0(6@0"318615926#0#0#0#0#0"0(4@34""_sqlite3_close", referenced from:318615926#356#37#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#393#45#0(6@0"318615926#0#0#0#0#0"0(13@41"-[MessageQueue dealloc] in MessageQueue.o318615926#438#48#0(6@0"318615926#0#0#0#0#0"0(4@40""_sqlite3_column_blob", referenced from:318615926#486#43#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#529#45#0(6@0"318615926#0#0#0#0#0"0(4@51""_OBJC_CLASS_$_CLLocationManager", referenced from:318615926#574#54#0(6@0"318615926#0#0#0#0#0"0(13@69"Objc-class-ref-to-CLLocationManager in iphone_rightridesAppDelegate.o318615926#628#76#0(6@0"318615926#0#0#0#0#0"0(4@28""_deflate", referenced from:318615926#704#31#0(6@0"318615926#0#0#0#0#0"0(13@47"+[LFCGzipUtility gzipData:] in LFCGzipUtility.o318615926#735#54#0(6@0"318615926#0#0#0#0#0"0(4@39""_sqlite3_prepare_v2", referenced from:318615926#789#42#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#831#45#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615926#876#52#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#928#52#0(6@0"318615926#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615926#980#51#0(6@0"318615926#0#0#0#0#0"0(4@39""_SecKeyGetBlockSize", referenced from:318615926#1031#42#0(6@0"318615926#0#0#0#0#0"0(13@70"-[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o318615926#1073#77#0(6@0"318615926#0#0#0#0#0"0(4@38""_sqlite3_bind_blob", referenced from:318615926#1150#41#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#1191#52#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#1243#52#0(6@0"318615926#0#0#0#0#0"0(4@34""_deflateInit2_", referenced from:318615926#1295#37#0(6@0"318615926#0#0#0#0#0"0(13@47"+[LFCGzipUtility gzipData:] in LFCGzipUtility.o318615926#1332#54#0(6@0"318615926#0#0#0#0#0"0(4@37""_sqlite3_bind_int", referenced from:318615926#1386#40#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615926#1426#52#0(6@0"318615926#0#0#0#0#0"0(4@40""_sqlite3_column_text", referenced from:318615926#1478#43#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#1521#45#0(6@0"318615926#0#0#0#0#0"0(4@34""_SecKeyDecrypt", referenced from:318615926#1566#37#0(6@0"318615926#0#0#0#0#0"0(13@70"-[Communcations decryptWithPrivateKey:plainBuffer:] in Communcations.o318615926#1603#77#0(6@0"318615926#0#0#0#0#0"0(4@33""_sqlite3_open", referenced from:318615926#1680#36#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#1716#45#0(6@0"318615926#0#0#0#0#0"0(4@31""_deflateEnd", referenced from:318615926#1761#34#0(6@0"318615926#0#0#0#0#0"0(13@47"+[LFCGzipUtility gzipData:] in LFCGzipUtility.o318615926#1795#54#0(6@0"318615926#0#0#0#0#0"0(13@47"+[LFCGzipUtility gzipData:] in LFCGzipUtility.o318615926#1849#54#0(6@0"318615926#0#0#0#0#0"0(4@34""_sqlite3_reset", referenced from:318615926#1903#37#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615926#1940#52#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#1992#52#0(6@0"318615926#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615926#2044#51#0(6@0"318615926#0#0#0#0#0"0(4@56""_kCLLocationAccuracyNearestTenMeters", referenced from:318615926#2095#59#0(6@0"318615926#0#0#0#0#0"0(13@83"_kCLLocationAccuracyNearestTenMeters$non_lazy_ptr in iphone_rightridesAppDelegate.o318615926#2154#90#0(6@0"318615926#0#0#0#0#0"0(13@68"(maybe you meant: _kCLLocationAccuracyNearestTenMeters$non_lazy_ptr)318615926#2244#74#0(6@0"318615926#0#0#0#0#0"0(4@38""_sqlite3_bind_text", referenced from:318615926#2318#41#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#2359#52#0(6@0"318615926#0#0#0#0#0"0(4@35""_sqlite3_errmsg", referenced from:318615926#2411#38#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615926#2449#52#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue confirmPop:] in MessageQueue.o318615926#2501#52#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#2553#52#0(6@0"318615926#0#0#0#0#0"0(13@45"-[MessageQueue addMsgToDB:] in MessageQueue.o318615926#2605#52#0(6@0"318615926#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615926#2657#51#0(6@0"318615926#0#0#0#0#0"0(4@41""_sqlite3_column_bytes", referenced from:318615926#2708#44#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#2752#45#0(6@0"318615926#0#0#0#0#0"0(4@39""_sqlite3_column_int", referenced from:318615926#2797#42#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#2839#45#0(6@0"318615926#0#0#0#0#0"0(13@44"-[MessageQueue dbMsgCount] in MessageQueue.o318615926#2884#51#0(6@0"318615926#0#0#0#0#0"0(4@34""_SecKeyEncrypt", referenced from:318615926#2935#37#0(6@0"318615926#0#0#0#0#0"0(13@70"-[Communcations encryptWithPublicKey:cipherBuffer:] in Communcations.o318615926#2972#77#0(6@0"318615926#0#0#0#0#0"0(4@37""_sqlite3_finalize", referenced from:318615926#3049#40#0(6@0"318615926#0#0#0#0#0"0(13@38"-[MessageQueue init] in MessageQueue.o318615926#3089#45#0(6@0"318615926#0#0#0#0#0"0(13@19"Symbol(s) not found318615926#3134#24#0(6@0"318615926#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status318615926#3158#36#0(6@0"318615926#0#0#0#0#0"0(0#0#0"8619130880#950"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -filelist /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/SnapGame.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/Objects-normal/armv7/SnapGame1#
+
+CProcessInfoPlistFile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/Info.plist SnapGame-Info.plist
+s318615922.092251
+e318615922.095499
+r1
+xProcessInfoPlistFile
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/Info.plist
+xSnapGame-Info.plist
+lSLF07#2@27"Process SnapGame-Info.plist318615922#318615922#0(0"0(0#0#75"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGame-Info.plist8615799968#634"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SnapGame-Info.plist -genpkginfo /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/ResourceRules.plist -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/Info.plist0#
+
+CProcessPCH /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch.gch SnapGame_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s318615922.501150
+e318615923.904128
+r1
+xProcessPCH
+x/var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch.gch
+xSnapGame_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile SnapGame_Prefix.pch318615922#318615923#0(0"0(0#0#75"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGame_Prefix.pch8619031488#1811"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv7 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGame_Prefix.pch -o /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-afctnqxqqalthybnttcrqoetwvzf/SnapGame_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch.gch SnapGame_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318615922.500317
+e318615923.774984
+r1
+xProcessPCH
+x/var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch.gch
+xSnapGame_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile SnapGame_Prefix.pch318615922#318615923#0(0"0(0#0#75"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGame_Prefix.pch8619472960#1811"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-generated-files.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-own-target-headers.hmap -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-all-target-headers.hmap -iquote /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame-project-headers.hmap -F/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/include -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources/armv6 -I/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/DerivedSources -c /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/SnapGame_Prefix.pch -o /var/folders/Ak/AktT08osFuC44+qm+oT4QU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SnapGame_Prefix-agvzcrwmbzbqskcqcuhbevusvmqt/SnapGame_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/danielpiselli/Library/MobileDevice/Provisioning Profiles/F42584FD-C305-4D91-98B3-A5F50DA224DD.mobileprovision" /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/embedded.mobileprovision
+s318615926.299228
+e318615926.300604
+r1
+xProcessProductPackaging
+x/Users/danielpiselli/Library/MobileDevice/Provisioning Profiles/F42584FD-C305-4D91-98B3-A5F50DA224DD.mobileprovision
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/embedded.mobileprovision
+lSLF07#2@201"ProcessProductPackaging "/Users/danielpiselli/Library/MobileDevice/Provisioning Profiles/F42584FD-C305-4D91-98B3-A5F50DA224DD.mobileprovision" build/Debug-iphoneos/SnapGame.app/embedded.mobileprovision318615926#318615926#0(0"0(0#0#114"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/embedded.mobileprovision8615199680#466"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/danielpiselli/Library/MobileDevice/Provisioning Profiles/F42584FD-C305-4D91-98B3-A5F50DA224DD.mobileprovision" -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame.xcent
+s318615926.300666
+e318615926.324399
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame.xcent
+lSLF07#2@178"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame.xcent318615926#318615926#0(0"0(0#0#121"/Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame.xcent8613878784#469"    cd /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/SnapGame.build/Debug-iphoneos/SnapGame.build/SnapGame.xcent0#
+
+CTouch /Users/danielpiselli/Desktop/Marquina/SnapGame/SnapGame/build/Debug-iphoneos/SnapGame.app
+r0
+
