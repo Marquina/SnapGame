@@ -14,6 +14,10 @@
 		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
 		2899E5220DE3E06400AC0155 /* SnapGameViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* SnapGameViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		5D1EAB89153B719300DEBF5D /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D1EAB88153B719300DEBF5D /* libsqlite3.0.dylib */; };
+		5D1EAB8B153B71D200DEBF5D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D1EAB8A153B71D200DEBF5D /* CoreLocation.framework */; };
+		5D1EAB8D153B723300DEBF5D /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D1EAB8C153B723300DEBF5D /* Security.framework */; };
+		5D1EAB9F153B74AD00DEBF5D /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D1EAB9E153B74AD00DEBF5D /* libz.dylib */; };
 		5D37240011D3C56000841110 /* AuthenticationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D3723FF11D3C56000841110 /* AuthenticationViewController.m */; };
 		5D37240711D3C5D100841110 /* Communcations.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D37240611D3C5D100841110 /* Communcations.m */; };
 		5D37240E11D3C62B00841110 /* ConfirmationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D37240D11D3C62B00841110 /* ConfirmationViewController.m */; };
@@ -46,6 +50,10 @@
 		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* SnapGame_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SnapGame_Prefix.pch; sourceTree = "<group>"; };
+		5D1EAB88153B719300DEBF5D /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		5D1EAB8A153B71D200DEBF5D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		5D1EAB8C153B723300DEBF5D /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		5D1EAB9E153B74AD00DEBF5D /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		5D3723FA11D3C4F000841110 /* AuthenticationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AuthenticationViewController.h; sourceTree = "<group>"; };
 		5D3723FF11D3C56000841110 /* AuthenticationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AuthenticationViewController.m; sourceTree = "<group>"; };
 		5D37240311D3C5A000841110 /* Communcations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Communcations.h; sourceTree = "<group>"; };
@@ -92,6 +100,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5D1EAB9F153B74AD00DEBF5D /* libz.dylib in Frameworks */,
+				5D1EAB8D153B723300DEBF5D /* Security.framework in Frameworks */,
+				5D1EAB8B153B71D200DEBF5D /* CoreLocation.framework in Frameworks */,
+				5D1EAB89153B719300DEBF5D /* libsqlite3.0.dylib in Frameworks */,
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
@@ -159,6 +171,10 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				5D1EAB9E153B74AD00DEBF5D /* libz.dylib */,
+				5D1EAB8C153B723300DEBF5D /* Security.framework */,
+				5D1EAB8A153B71D200DEBF5D /* CoreLocation.framework */,
+				5D1EAB88153B719300DEBF5D /* libsqlite3.0.dylib */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
